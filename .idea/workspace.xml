@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e98013d9-666b-440e-bc98-49e49d214ddc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.template" beforeDir="false" afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/next-udemy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/dashboard/server-todos/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todos/actions/todo-actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/api/todos/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/todos/route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/rest-todos/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/rest-todos/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SidebarItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SidebarItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todos/components/NewTodo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/todos/components/NewTodo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todos/components/TodoItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/todos/components/TodoItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todos/components/TodosGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/todos/components/TodosGrid.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="admin-todos" />
+                        <option value="use-optimistic-hook-and-server-actions" />
                       </list>
                     </value>
                   </entry>

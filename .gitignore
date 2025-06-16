@@ -2,8 +2,6 @@
 /postgres
 .env
 
-/.idea
-
 
 # dependencies
 /node_modules
